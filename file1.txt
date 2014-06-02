@@ -1,6 +1,5 @@
 ﻿first line
-second line mod
-	second line B added
+second line
 third line
 fourth line
 5th line
