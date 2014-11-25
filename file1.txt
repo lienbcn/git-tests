@@ -3,7 +3,7 @@ second line
 third line
 fourth line
 5th line
-6th line
+6th line, hot fix bug
 add
 more
 lines
